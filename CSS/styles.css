@@ -1,0 +1,16 @@
+#canvasBack {
+    position: absolute;
+    z-index: 1;
+}
+
+#canvasFront {
+    position: absolute;
+    z-index: 2;
+}
+
+#image {
+    height: 15px;
+    width: 15px;
+  background: 
+  url('images/BILLY_BIT.png') 0px 0px;
+  }
